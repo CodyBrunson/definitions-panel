@@ -1404,9 +1404,9 @@ class DefinitionsPanel extends Plugin {
             spriteWrapper.appendChild(levelBadge);
         }
 
-        spriteContainer.appendChild(sprite);
-        spriteWrapper.appendChild(spriteContainer);
-        npcEl.appendChild(spriteWrapper);
+        //spriteContainer.appendChild(sprite);
+        //spriteWrapper.appendChild(spriteContainer);
+        //npcEl.appendChild(spriteWrapper);
 
         // NPC info
         const info = document.createElement('div');
